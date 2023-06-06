@@ -2,8 +2,7 @@
 A simple Ray Casting 3D engine using SDL as the rendering back-end.
 
 # <u>AUTHORS</u>
-- Joseph Aboagye ... [Twitter](https://twitter.com/home?lang=en)
-- Topister Onyango ... [LinkedIn](https://www.linkedin.com/in/topister-nandera-5930331a5/) 
+- Sbonele Miya ... [LinkedIn](https://www.linkedin.com/in/sbonele-miya-a67306180/) 
 
 ## The goal of this project is to create a game in 3D using raycasting !
 This was designed for kids so that it could improve their spatial recognition and analytical skills
